@@ -10,6 +10,7 @@ public class StringRange {
 
     }
 }
+// start - 3, end - 7
 // ouput - l o w o 
 //         h e l l o w o r l d 
 //         0 1 2 3 4 5 6 7 8 9 
